@@ -1,0 +1,85 @@
+[
+  {
+    "id": "seed-story-cartographer",
+    "title": "The Cartographer of Forgotten Seas",
+    "author_id": "seed-author-aria",
+    "author_name": "Aria Vale",
+    "author_avatar": "assets/avatars/avatar-aria.png",
+    "cover": "assets/covers/cover-cartographer.png",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "universe_name": "Aetheria",
+    "synopsis": "When every map of the floating isles burns in a single night, a young cartographer must redraw the world from memory and starlight before the sky-routes are lost forever.",
+    "body": "Elowen had drawn the floating isles a thousand times, but never from memory. The night the Great Archive burned, she stood on the harbor bridge and watched centuries of charts curl into embers that rose like reluctant fireflies.\n\nBy morning, the airships had no routes. Captains who had crossed the cloud-sea for decades suddenly feared the gaps between islands, where the wind turned treacherous and the mist swallowed sound. The Cartographers' Guild called it the end of safe passage. Elowen called it a problem worth solving.\n\nShe began with the constellations, because stars do not burn the way paper does. Each night she rowed her little skiff to the edge of the world and matched the reflections on the calm water to the shapes she remembered. Slowly, island by island, the map returned, not as it had been, but truer, drawn by someone who had finally learned to trust her own hands.",
+    "status": "published",
+    "created_at": "2024-06-02T12:00:00+00:00"
+  },
+  {
+    "id": "seed-story-lighthouse",
+    "title": "Tea for the Lighthouse Keeper",
+    "author_id": "seed-author-finn",
+    "author_name": "Finn Marsh",
+    "author_avatar": "assets/avatars/avatar-finn.png",
+    "cover": "assets/covers/cover-lighthouse.png",
+    "genres": [
+      "Drama"
+    ],
+    "universe_name": null,
+    "synopsis": "Every evening at dusk, the keeper sets a second cup on the rocks for a friend who has not come in years. A gentle story about grief, routine, and the slow return of hope.",
+    "body": "The kettle whistled at six, the way it had for thirty-one years. Aldous poured two cups, carried them down the worn stone steps, and set one on the flat rock where Margery used to sit.\n\n\"Calm tonight,\" he told the empty seat. The sea agreed, lapping politely at the base of the lighthouse. He drank his tea slowly and let the other go cold, as he always did, then climbed back up to light the lamp.\n\nIt was a girl from the village who broke the habit. She rowed out one evening, uninvited, and sat on Margery's rock as though it had been waiting for her. \"Is this seat taken?\" she asked. Aldous looked at the cooling cup, then at the living face in front of it, and decided that keeping a light meant more than warning ships away. Sometimes it meant guiding someone in.",
+    "status": "published",
+    "created_at": "2024-06-04T12:00:00+00:00"
+  },
+  {
+    "id": "seed-story-signal",
+    "title": "Signal in the Static",
+    "author_id": "seed-author-mira",
+    "author_name": "Mira Okonkwo",
+    "author_avatar": "assets/avatars/avatar-mira.png",
+    "cover": "assets/covers/cover-signal.png",
+    "genres": [
+      "Science Fiction"
+    ],
+    "universe_name": null,
+    "synopsis": "A lonely radio astronomer finally hears the signal she has waited her whole career for, only to realize it is a message she sent herself, long ago and not yet.",
+    "body": "The dish had listened to empty sky for forty years. Dr. Ada Boakye had listened to the dish for twelve of them, long enough to know the difference between noise and nothing.\n\nAt 3:14 in the morning, the static folded. A pattern surfaced, prime numbers, then a waveform that resolved into something almost like speech. Ada's hands shook as she logged it. First contact, alone, on a Tuesday.\n\nIt took her three weeks to decode the message and one terrible second to recognize the voice. It was hers, older and calmer, transmitting coordinates and a single instruction: keep listening. The signal had not come from across the galaxy. It had come from across time, and it was counting on her to answer.",
+    "status": "published",
+    "created_at": "2024-06-06T12:00:00+00:00"
+  },
+  {
+    "id": "seed-story-apothecary",
+    "title": "The Midnight Apothecary",
+    "author_id": "seed-author-jasper",
+    "author_name": "Jasper Lin",
+    "author_avatar": "assets/avatars/avatar-jasper.png",
+    "cover": "assets/covers/cover-apothecary.png",
+    "genres": [
+      "Mystery",
+      "Fantasy"
+    ],
+    "universe_name": "Verdance",
+    "synopsis": "In the living tree-city of Verdance, a shop that only opens at midnight sells cures for ailments no doctor can name, until a customer asks for a remedy that does not exist.",
+    "body": "The Midnight Apothecary had no sign, because the people who needed it always found it anyway. Its shelves climbed the inside of a hollow tree, lined with bottles that glowed faintly in colors that had no names.\n\nWren had inherited the shop from her grandmother along with a single rule: never promise a cure you cannot brew. For years that had been easy. Then a hooded stranger set a coin on the counter and asked for a remedy to forget a face.\n\nWren searched every drawer and ledger and found nothing, because forgetting, her grandmother had written in the margin, is not a sickness but a choice. So instead of a potion, Wren brewed a pot of tea, and asked the stranger to tell her the story they were so desperate to lose. By dawn, the face they feared had become one they could finally carry.",
+    "status": "published",
+    "created_at": "2024-06-08T12:00:00+00:00"
+  },
+  {
+    "id": "seed-story-comet",
+    "title": "Letters to a Comet",
+    "author_id": "seed-author-mira",
+    "author_name": "Mira Okonkwo",
+    "author_avatar": "assets/avatars/avatar-mira.png",
+    "cover": "assets/covers/cover-comet.png",
+    "genres": [
+      "Romance",
+      "Poetry"
+    ],
+    "universe_name": null,
+    "synopsis": "A collection of letters written to a comet that returns once every eighty years, and to the person the writer hopes will read them when it does.",
+    "body": "Dear traveler of the long dark,\n\nThey say you will not pass this way again for eighty years. I am writing anyway, because some things are worth saying even to a light that cannot answer.\n\nI climbed the hill again tonight. The grass remembered me. I told the sky the things I could not tell anyone with a face, and the comet listened the way only distant things can, patiently, without flinching.\n\nIf you are reading this, then eighty years have passed and the comet has come round again, and someone, maybe you, is standing on my hill. Leave a letter of your own. Tell it everything. I promise the sky keeps every word.",
+    "status": "published",
+    "created_at": "2024-06-10T12:00:00+00:00"
+  }
+]

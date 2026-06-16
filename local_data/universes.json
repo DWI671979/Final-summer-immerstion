@@ -1,0 +1,32 @@
+[
+  {
+    "id": "seed-universe-aetheria",
+    "name": "Aetheria",
+    "tagline": "A sky-sea of floating isles connected by wind-routes and starlight.",
+    "rules": "Setting: a world of islands suspended in an endless cloud-sea, traveled by airship and sky-current. Canon: gravity is gentle, the stars are navigational law, and the Great Archive (recently burned) once held every map. Contributors may add new isles and crews but may not alter the laws of flight or resurrect the Archive intact.",
+    "creator_id": "seed-author-aria",
+    "creator_name": "Aria Vale",
+    "banner": "assets/wiki/world-aetheria.png",
+    "created_at": "2024-06-01T12:00:00+00:00"
+  },
+  {
+    "id": "seed-universe-archive",
+    "name": "The Sunken Archive",
+    "tagline": "A drowned library where every book ever lost eventually washes up.",
+    "rules": "Setting: a vast flooded library beneath the waves, lit by bioluminescent lanterns. Canon: knowledge is currency, water preserves rather than destroys, and the Archive rearranges itself nightly. Contributors may invent recovered texts and librarian guilds but must respect that nothing here is ever truly permanent.",
+    "creator_id": "seed-author-finn",
+    "creator_name": "Finn Marsh",
+    "banner": "assets/wiki/world-archive.png",
+    "created_at": "2024-06-03T12:00:00+00:00"
+  },
+  {
+    "id": "seed-universe-verdance",
+    "name": "Verdance",
+    "tagline": "A city grown, not built, from ancient living trees.",
+    "rules": "Setting: a metropolis cultivated within colossal sentient trees, lit by lantern-fruit. Canon: the trees remember everything that happens in their branches, magic is grown rather than cast, and the seasons govern law. Contributors may add districts, guilds, and growers but may not cut a living tree without consequence.",
+    "creator_id": "seed-author-jasper",
+    "creator_name": "Jasper Lin",
+    "banner": "assets/wiki/world-verdance.png",
+    "created_at": "2024-06-05T12:00:00+00:00"
+  }
+]

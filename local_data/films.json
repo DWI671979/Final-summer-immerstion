@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seed-film-cartographer",
+    "title": "The Cartographer — A Short Film",
+    "story_id": "seed-story-cartographer",
+    "story_title": "The Cartographer of Forgotten Seas",
+    "director": "Aria Vale & the Aetheria Collective",
+    "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "description": "A wordless animated adaptation of the burning of the Great Archive.",
+    "uploader_id": "seed-author-aria",
+    "uploader_name": "Aria Vale",
+    "created_at": "2024-06-11T12:00:00+00:00"
+  },
+  {
+    "id": "seed-film-signal",
+    "title": "Signal — Proof of Concept",
+    "story_id": "seed-story-signal",
+    "story_title": "Signal in the Static",
+    "director": "Mira Okonkwo",
+    "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "description": "A three-minute teaser shot in a real radio observatory at night.",
+    "uploader_id": "seed-author-mira",
+    "uploader_name": "Mira Okonkwo",
+    "created_at": "2024-06-12T12:00:00+00:00"
+  }
+]
